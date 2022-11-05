@@ -1,0 +1,130 @@
+.fundotitulo {
+	width: auto;
+	position: relative;
+	background: orange;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: -10px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	text-align: center;
+	font-weight: bold;
+}
+
+.branco {
+	color: white;
+}
+
+.guia:link, .guia:visited {
+	padding: 5px;
+	color: white;
+	text-decoration: none;
+}
+
+.guia:hover {
+	background: white;
+	color: orange;
+}
+
+.leiamais:link, .leiamais:visited {
+	color: orange;
+	position: relative;
+	bottom: 17px;
+	text-decoration: none;
+}
+
+.leiamais:hover {
+	text-decoration: underline;
+}
+
+#nomeTecBlog {
+	font-size: 35px;
+	color: black;
+  	padding-bottom: 5px;
+}
+
+.fundopostagem {
+	width: 1200px;
+	position: relative;
+}
+
+.postagem1 {
+	position: relative;
+	left: 250px;
+}
+
+.postagem2 {
+	position: relative;
+	left: 250px;
+	bottom: 20px;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	color: orange;
+	position: relative;
+	top: 20px;
+}
+
+.datapostagem {
+	font-size: 13px;
+}
+
+.paragrafo {
+	width: 640px;
+	position: relative;
+	bottom: 20px;
+}
+
+.rodape {
+	width: 950px;
+	position: relative;
+	background: lightgray;
+	text-align: center;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	left: 240px;
+	margin-top: -20px;
+}
+
+.arealateral {
+	width: 230px;
+	position: absolute;
+	top: 25px;
+	right: 10px;
+	font-size: 14px;
+	
+}
+
+.titulolateral {
+	color: dimgray;
+	background: lightgray;
+	padding-right: 10px;
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+}
+
+.espacamentolinha {
+	position: relative;
+	bottom: 18px;
+}
+
+.espacamentolinhabaixo {
+	position: relative;
+	bottom: 25px;
+}
+
+.elementocategoria:link, .elementocategoria:visited {
+	color: orange;
+	position: relative;
+	bottom: 8px;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.elementocategoria:hover {
+	color: orange;
+	position: relative;
+	bottom: 8px;
+	font-size: 18px;
+	text-decoration: underline;
+}
